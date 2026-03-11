@@ -1,0 +1,5 @@
+/Users/inf/Documents/InspecteursHygieneBackend/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/inf/Documents/InspecteursHygieneBackend/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inf/Documents/InspecteursHygieneBackend/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/inf/Documents/InspecteursHygieneBackend/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/inf/Documents/InspecteursHygieneBackend/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
